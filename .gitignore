@@ -1,0 +1,4 @@
+gh-packs
+*.exe
+.context/packs/
+dist/
